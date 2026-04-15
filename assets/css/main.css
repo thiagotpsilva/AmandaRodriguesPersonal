@@ -444,7 +444,7 @@ a:hover {
   background-attachment: fixed, fixed;
   /* background-image: url("../images/cycling.webp"); */
   /* background-image: url("../images/01.jpg"); */
-  background-image: url("/Testando.jpg");
+  /* background-image: url("/Testando.jpg"); */
   background-position: top left, center center;
   background-repeat: repeat, no-repeat;
   background-repeat: no-repeat;
@@ -478,7 +478,7 @@ a:hover {
   text-align: center;
   top: 0;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
+  /* background-color: rgba(255, 255, 255, 0.9); */
   /* background-image: url(); */
   background-repeat: repeat-x;
   /* background-image: url("/Testando.jpg"); */
